@@ -7,7 +7,7 @@
 1. Clone the repository and navigate to the downloaded folder.
 ```	
 git clone https://github.com/Kcsh/Tell-me-the-breed.git
-cd dog-project
+cd Tell-me-the-breed
 ```
 
 2. Download the [dog dataset] [human dataset] [VGG-16 bottleneck features] 
@@ -19,12 +19,12 @@ Link for above files https://goo.gl/TM1oiD
 	- __Linux__ (to install with __GPU support__, change `requirements/dog-linux.yml` to `requirements/dog-linux-gpu.yml`): 
 	```
 	conda env create -f requirements/dog-linux.yml
-	source activate dog-project
+	source activate Tell-me-the-breed
 	```  
 	- __Windows__ (to install with __GPU support__, change `requirements/dog-windows.yml` to `requirements/dog-windows-gpu.yml`):  
 	```
 	conda env create -f requirements/dog-windows.yml
-	activate dog-project
+	activate Tell-me-the-breed
 	```
 
 	
