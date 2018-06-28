@@ -6,7 +6,7 @@
 
 1. Clone the repository and navigate to the downloaded folder.
 ```	
-git clone https://github.com/udacity/dog-project.git
+git clone https://github.com/Kcsh/Tell-me-the-breed.git
 cd dog-project
 ```
 
